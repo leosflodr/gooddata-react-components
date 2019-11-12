@@ -8,6 +8,8 @@
 - [GoodData.UI Live Examples](https://gooddata-examples.herokuapp.com/)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/gooddata)
 
+something to develop
+
 ### Usage
 With [yarn](https://yarnpkg.com) installed, go to your project directory and run
 ```
